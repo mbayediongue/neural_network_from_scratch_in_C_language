@@ -1,0 +1,16 @@
+3 : Nombre de couches
+4 : Nombre de neurone de la couche 0
+3 : Nombre de neurone de la couche 1
+3 : Nombre de neurone de la couche 2
+Poids du neurone 0 de la couche 1 
+-1.293624 -2.965331 4.947036 2.133582 
+Poids du neurone 1 de la couche 1 
+-28.827298 -27.106854 43.670530 29.200742 
+Poids du neurone 2 de la couche 1 
+11.103252 -4.729474 -10.226495 -6.082101 
+Poids du neurone 0 de la couche 2 
+-10.714349 -4.728863 5.457226 
+Poids du neurone 1 de la couche 2 
+13.150224 -16.027596 -3.619535 
+Poids du neurone 2 de la couche 2 
+-6.160040 9.268762 -21.158992 
